@@ -1717,9 +1717,11 @@ function applicationManager(globalData) {
                 option.textContent = count + ". " + key;
                 option.value = domainList[key].Step;
                 option.title = domainList[key].Process_Name + " [" + domainList[key].Timestamp + "]";
-                if (domainList[key].VirusTotal.malicious > 0) {
-                    option.className = 'malicious';
-                    option.textContent = count + ". " + key + '-> malicious by Virus Total';
+                if(domainList[key].VirusTotal) {
+                    if (domainList[key].VirusTotal.malicious > 0) {
+                        option.className = 'malicious';
+                        option.textContent = count + ". " + key + '-> malicious by Virus Total';
+                    }
                 }
                 selection.appendChild(option);
                 count++;
