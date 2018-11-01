@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58d78486-9a37-4ccf-92ca-cda271fb64a4" name="Default" comment="Added datasets">
-      <change afterPath="$PROJECT_DIR$/data/Logfile_AbsolutXP.CSV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Logfile_AchisXP.CSV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Logfile_EmailCrackXP.CSV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Logfile_Zulfi.CSV" afterDir="false" />
+    <list default="true" id="58d78486-9a37-4ccf-92ca-cda271fb64a4" name="Default" comment="Added Vung'x WinXP datasets + Mr. Zulfi">
+      <change afterPath="$PROJECT_DIR$/data/Logfile_ArchisWin7.CSV" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Logfile_Test2.XML" beforeDir="false" afterPath="$PROJECT_DIR$/data/Logfile_Test2.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Logfile_V1.CSV" beforeDir="false" afterPath="$PROJECT_DIR$/data/Logfile_V1.CSV" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Logfile_V1.XML" beforeDir="false" afterPath="$PROJECT_DIR$/data/Logfile_V1.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Original_Data.CSV" beforeDir="false" afterPath="$PROJECT_DIR$/data/Original_Data.CSV" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Update_Malware.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Update_Malware.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/domain.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/domain.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/domain.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/domain.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/log1data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/log1data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/malwaredata.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/malwaredata.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Interaction.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Interaction.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overview.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/Overview.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overview.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/Overview.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Procmon.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/Procmon.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/case_study1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/case_study1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/case_study2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/case_study2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clean.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/clean.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/malicious.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/malicious.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/question.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/question.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/suspicious.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/suspicious.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/appManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/appManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/ultility.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/ultility.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,58 +46,62 @@
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="CSV" value="16" />
+          <entry key="CSV" value="17" />
           <entry key="csv" value="4" />
-          <entry key="html" value="1" />
+          <entry key="html" value="2" />
           <entry key="ipynb" value="1" />
+          <entry key="js" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="20" />
-          <entry key="HTML" value="1" />
+          <entry key="CSV" value="21" />
+          <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="CSV" value="30" />
-          <entry key="html" value="129" />
+          <entry key="CSV" value="33" />
+          <entry key="html" value="134" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSV" value="30" />
-          <entry key="HTML" value="129" />
+          <entry key="CSV" value="33" />
+          <entry key="HTML" value="134" />
         </counts>
       </usages-collector>
     </session>
     <session id="-335109178">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="CSV" value="6" />
+          <entry key="CSV" value="7" />
           <entry key="XML" value="2" />
+          <entry key="csv" value="1" />
           <entry key="js" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JavaScript" value="3" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -86,14 +110,14 @@
           <entry key="CSV" value="6" />
           <entry key="html" value="23" />
           <entry key="js" value="29" />
-          <entry key="txt" value="14" />
+          <entry key="txt" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="23" />
           <entry key="JavaScript" value="29" />
-          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="PLAIN_TEXT" value="54" />
         </counts>
       </usages-collector>
     </session>
@@ -101,27 +125,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="127" column="12" lean-forward="true" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="12" />
-              <folding>
-                <element signature="n#fieldset#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#table#0;n#fieldset#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#fieldset#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#fieldset#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#input#0;n#p#0;n#div#0;n#fieldset#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#fieldset#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/appManager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="1724" column="17" selection-start-line="1724" selection-start-column="17" selection-end-line="1724" selection-end-column="17" />
+            <state relative-caret-position="32794">
+              <caret line="1726" column="17" selection-start-line="1726" selection-start-column="17" selection-end-line="1726" selection-end-column="17" />
               <folding>
                 <element signature="e#6#12#0" expanded="true" />
                 <element signature="e#6#12#0" expanded="true" />
@@ -139,8 +146,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/Logfile_Achis.CSV">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
+            <state relative-caret-position="19">
               <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/Logfile_ArchisWin7.CSV">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="137" column="70" lean-forward="true" selection-start-line="137" selection-start-column="70" selection-end-line="137" selection-end-column="70" />
+              <folding>
+                <element signature="n#fieldset#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#table#0;n#fieldset#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#fieldset#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#fieldset#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#input#0;n#p#0;n#div#0;n#fieldset#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#fieldset#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,7 +181,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/Logfile_EmailCrack.CSV">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444642">
+            <state relative-caret-position="384009">
               <caret line="20211" column="51" selection-start-line="20211" selection-start-column="43" selection-end-line="20211" selection-end-column="51" />
             </state>
           </provider>
@@ -157,7 +190,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/Logfile_Stealm1.CSV">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="361">
               <caret line="19" column="119" selection-start-line="19" selection-start-column="119" selection-end-line="19" selection-end-column="119" />
             </state>
           </provider>
@@ -166,7 +199,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/Logfile_V1.CSV">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32604">
+            <state relative-caret-position="28158">
               <caret line="1482" column="73" selection-start-line="1482" selection-start-column="73" selection-end-line="1482" selection-end-column="73" />
             </state>
           </provider>
@@ -175,7 +208,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/Untitled.ipynb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2794">
+            <state relative-caret-position="2413">
               <caret line="127" column="47" selection-start-line="127" selection-start-column="47" selection-end-line="127" selection-end-column="47" />
             </state>
           </provider>
@@ -184,7 +217,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/ultility.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1298">
+            <state relative-caret-position="1121">
               <caret line="59" column="33" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
             </state>
           </provider>
@@ -252,8 +285,9 @@
         <option value="$PROJECT_DIR$/data/Logfile_AchisXP.CSV" />
         <option value="$PROJECT_DIR$/data/Logfile_AbsolutXP.CSV" />
         <option value="$PROJECT_DIR$/data/Logfile_Zulfi.CSV" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/appManager.js" />
+        <option value="$PROJECT_DIR$/data/Logfile_ArchisWin7.CSV" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -263,16 +297,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="1027" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -294,7 +329,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,7 +398,9 @@
       <workItem from="1537887095992" duration="8974000" />
       <workItem from="1538070868652" duration="1775000" />
       <workItem from="1538673452304" duration="2458000" />
-      <workItem from="1539884032850" duration="468000" />
+      <workItem from="1539884032850" duration="1613000" />
+      <workItem from="1541099851421" duration="741000" />
+      <workItem from="1541108650582" duration="171000" />
     </task>
     <task id="LOCAL-00001" summary="Added datasets">
       <created>1538074283935</created>
@@ -373,17 +409,24 @@
       <option name="project" value="LOCAL" />
       <updated>1538074283935</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Vung'x WinXP datasets + Mr. Zulfi">
+      <created>1539884600128</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539884600128</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134754000" />
+    <option name="totallyTimeSpent" value="136811000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="0" y="23" width="2560" height="1417" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21699819" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21842733" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -433,7 +476,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Added datasets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added datasets" />
+    <MESSAGE value="Added Vung'x WinXP datasets + Mr. Zulfi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Vung'x WinXP datasets + Mr. Zulfi" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Demo.html" />
@@ -467,9 +511,6 @@
           <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/log1data.csv">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/Logfile_Test2.XML">
       <provider selected="true" editor-type-id="LargeFileEditor" />
@@ -515,48 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/Logfile_Achis.CSV">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/Logfile_EmailCrack.CSV">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444642">
-          <caret line="20211" column="51" selection-start-line="20211" selection-start-column="43" selection-end-line="20211" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/Logfile_Stealm1.CSV">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="119" selection-start-line="19" selection-start-column="119" selection-end-line="19" selection-end-column="119" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/Logfile_V1.CSV">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32604">
-          <caret line="1482" column="73" selection-start-line="1482" selection-start-column="73" selection-end-line="1482" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/Untitled.ipynb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2794">
-          <caret line="127" column="47" selection-start-line="127" selection-start-column="47" selection-end-line="127" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/ultility.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1298">
-          <caret line="59" column="33" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/Logfile_AbsolutXP.CSV">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="968">
@@ -578,13 +577,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/backdoor.win32.executor.a.CSV">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="46" selection-start-column="46" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/log1data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/Logfile_V1.XML">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/Logfile_EmailCrack.CSV">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384009">
+          <caret line="20211" column="51" selection-start-line="20211" selection-start-column="43" selection-end-line="20211" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Logfile_Stealm1.CSV">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="119" selection-start-line="19" selection-start-column="119" selection-end-line="19" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Logfile_V1.CSV">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28158">
+          <caret line="1482" column="73" selection-start-line="1482" selection-start-column="73" selection-end-line="1482" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Untitled.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2413">
+          <caret line="127" column="47" selection-start-line="127" selection-start-column="47" selection-end-line="127" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Logfile_Achis.CSV">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Logfile_ArchisWin7.CSV">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ultility.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="59" column="33" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/appManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32794">
+          <caret line="1726" column="17" selection-start-line="1726" selection-start-column="17" selection-end-line="1726" selection-end-column="17" />
+          <folding>
+            <element signature="e#6#12#0" expanded="true" />
+            <element signature="e#6#12#0" expanded="true" />
+            <element signature="e#6#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="127" column="12" lean-forward="true" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="12" />
+        <state relative-caret-position="513">
+          <caret line="137" column="70" lean-forward="true" selection-start-line="137" selection-start-column="70" selection-end-line="137" selection-end-column="70" />
           <folding>
             <element signature="n#fieldset#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#table#0;n#fieldset#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -592,18 +662,6 @@
             <element signature="n#fieldset#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#input#0;n#p#0;n#div#0;n#fieldset#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#fieldset#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/appManager.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="1724" column="17" selection-start-line="1724" selection-start-column="17" selection-end-line="1724" selection-end-column="17" />
-          <folding>
-            <element signature="e#6#12#0" expanded="true" />
-            <element signature="e#6#12#0" expanded="true" />
-            <element signature="e#6#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
